@@ -5,6 +5,6 @@ const http = {
   put: axios.put,
   delete: axios.delete,
 };
-export const apiEndpoint = "https://quiet-anchorage-46655.herokuapp.com";
+export const apiEndpoint = "https://food-lamp.herokuapp.com";
 // export const apiEndpoint = "http://localhost:4000";
 export default http;
