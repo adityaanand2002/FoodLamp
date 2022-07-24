@@ -1,3 +1,3 @@
 # FoodLamp
 
-Link: foodlamp.netlify.app/
+##Link: [FoodLamp](foodlamp.netlify.app/)
