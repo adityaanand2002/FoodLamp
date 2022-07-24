@@ -1,0 +1,16 @@
+.navbar {
+  padding: 0.5rem 2rem;
+  justify-content: flex-start;
+}
+.navbar-nav {
+  flex-direction: row;
+}
+.search {
+  max-width: 500px;
+  display: inline-flex;
+  margin: auto;
+}
+
+.react-tiny-popover-container {
+  z-index: 5;
+}

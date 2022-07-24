@@ -1,0 +1,43 @@
+.graphButtonContainer {
+  display: flex;
+}
+.changeGraphButtons {
+  width: 50%;
+  display: grid;
+  justify-content: center;
+  align-content: center;
+}
+.graphButtonSet {
+  align-content: center;
+  display: grid;
+  justify-content: center;
+}
+#selectADate {
+  /* box-shadow: inset 0 0 0     2px #f45e61; */
+  background: none;
+  color: #312929;
+  border: none;
+  text-align: center;
+  box-sizing: border-box;
+  margin: 1em 0.5em 0 0;
+  padding: 1em 2em;
+  font-weight: 700;
+}
+#graphDate {
+  box-shadow: inset 0 0 0 2px #f45e61;
+  background: none;
+  color: #f45e61;
+  border: none;
+  text-align: center;
+  box-sizing: border-box;
+  margin: 0.5em;
+  padding: 1em 2em;
+  font-weight: 700;
+}
+.draw.meet {
+  margin: 0.5em !important;
+}
+
+/* .gridline {
+  opacity: 0.2;
+} */
