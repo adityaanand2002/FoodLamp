@@ -1,68 +1,47 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# FoodLamp
 
-## Available Scripts
+> **_The Ultimate FoodGram minus Social media_**
 
-In the project directory, you can run:
+Have you frequently found yourself scrolling through Instagram liking food pictures left n right. Only to find yourself stuck wishing to find the recipe?  
+...And you are health conscious?  
+You have reached the right place! yay!
 
-### `npm start`
+Foodlamp is the all in one solution for all your waffles!
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+The Social media can be quite distracting sometimes when you specially want to just look at the food! Yumm😍
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+Features:
 
-### `npm test`
+- All about food and recipes
+- Like and Save recipes
+- Create Diet plans and Stay on track with your fitness journey
+- Amazing diet graphs
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Technologies used:
 
-### `npm run build`
+- **Stack**: MERN
+- **Charts**: Chartjs
+- **Styling**: Bootstrap and Sass
+- **Posts**: Reddit API
+- **Diet**: Edamam API
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Link to the Site [FoodLamp]()
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+\*\* The Site is down due to pricing issues of Heroku
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Frontend hosted on Netlify
 
-### `npm run eject`
+### Backend Hosted on Heroku
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Snapshots:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Landing Page:
+<img src="Snapshots/3.png">
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Graphs:
+<img src="Snapshots/1.png">
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Recipes:
+<img src="Snapshots/2.png">
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Happy Foodlamping!!
